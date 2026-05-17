@@ -6,8 +6,9 @@
 ## Project Overview
 This project presents an **Agent-Based Model (ABM)** designed to evaluate the effectiveness of protective security formations in high-density, dynamic crowd environments. Developed as part of the **ABM Theory (Spring 2026)** course at the National University of Technology, the simulation explores the trade-offs between security reacts, crowd density, and non-hostile stressors like media presence.
 
-![VIP Security Simulation Demo](demo.gif)
-
+<p align="center">
+  <img src="demo.gif" width="600" alt="VIP Security Simulation Demo">
+</p>
 ### The Problem
 Traditional security models often ignore "soft stressors." This simulation introduces **Media Scrums** and **Fan Interactions** to see how non-hostile agents can inadvertently create "security gaps" that hostile threats exploit.
 
