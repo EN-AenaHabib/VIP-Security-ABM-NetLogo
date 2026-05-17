@@ -1,7 +1,7 @@
 # VIP Security Protective Formation Strategy (ABM)
 
 [![NetLogo 6.3.0](https://img.shields.io/badge/Platform-NetLogo%206.3.0-maroon.svg)](https://ccl.northwestern.edu/netlogo/)
-[![Department](https://img.shields.io/badge/NUTECH-Computer%20Science-black.svg)](https://nutech.edu.pk/)
+
 
 ## Project Overview
 This project presents an **Agent-Based Model (ABM)** designed to evaluate the effectiveness of protective security formations in high-density, dynamic crowd environments. Developed as part of the **ABM Theory (Spring 2026)** course at the National University of Technology, the simulation explores the trade-offs between security reacts, crowd density, and non-hostile stressors like media presence.
