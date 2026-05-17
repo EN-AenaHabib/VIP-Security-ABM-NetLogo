@@ -9,8 +9,8 @@ This project presents an **Agent-Based Model (ABM)** designed to evaluate the ef
 <p align="center">
   <img src="demo.gif" width="600" alt="VIP Security Simulation Demo">
 </p>
-### The Problem
-Traditional security models often ignore "soft stressors." This simulation introduces **Media Scrums** and **Fan Interactions** to see how non-hostile agents can inadvertently create "security gaps" that hostile threats exploit.
+The Problem
+Traditional security models often ignore soft stressors. This simulation introduces Media Scrums and Fan Interactions to see how non-hostile agents can inadvertently create security gaps that hostile threats exploit.
 
 ---
 
