@@ -14,7 +14,7 @@ Traditional security models often ignore soft stressors. This simulation introdu
 
 ---
 
-## Key Features
+## Key Features :
 
 * **Multi-Agent Ecosystem:** * **VIP Convoy:** Principals with health-tracking and goal-directed locomotion.
     * **Layered Security:** Bodyguards split into **Inner Circle** (Shields) and **Outer Perimeter** (Interceptors).
